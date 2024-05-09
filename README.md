@@ -3,7 +3,7 @@
 Helpful docs:
 
 - https://supabase.com/docs/guides/auth/server-side/nextjs
-- https://supabase.com/docs/guides/auth/social-login/auth-github
+- https://supabase.com/docs/guides/auth/social-login
 - https://nextjs.org/docs/app/building-your-application/routing/middleware
 
 My links:
