@@ -1,6 +1,6 @@
 "use client";
 
-import { signOutAction } from "@/actions/users";
+import { signOutAction } from "../actions/users";
 import { useTransition } from "react";
 import toast from "react-hot-toast";
 

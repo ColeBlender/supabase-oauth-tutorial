@@ -1,6 +1,6 @@
 "use server";
 
-import { getSupabaseAuth } from "@/lib/auth";
+import { getSupabaseAuth } from "../lib/auth";
 import { Provider } from "@supabase/supabase-js";
 
 export const signOutAction = async () => {
