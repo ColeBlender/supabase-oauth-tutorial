@@ -8,5 +8,5 @@ Helpful docs:
 
 My links:
 
-- YouTube https://www.youtube.com/channel/@ColeBlender
+- YouTube https://youtube.com/@coleblender
 - X https://twitter.com/ColeBlender
