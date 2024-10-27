@@ -1,7 +1,7 @@
 function HomePage() {
   return (
     <>
-      <p>HomePage</p>
+      <p>Home Page</p>
     </>
   );
 }
